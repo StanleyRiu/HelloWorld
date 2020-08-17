@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="pdfbox-2.0.20">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jar/pdfbox-2.0.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar/fontbox-2.0.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
